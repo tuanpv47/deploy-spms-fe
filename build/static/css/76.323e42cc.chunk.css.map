@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/admin/permissions/Permissions.css"],"names":[],"mappings":"AAAA,MACI,cACJ,CAEA,kBACI,yBACJ,CAEA,cACI,wBACJ","file":"76.323e42cc.chunk.css","sourcesContent":[".page {\r\n    padding: 0px 10px;\r\n}\r\n\r\n.page .breadcrumb {\r\n    margin-bottom: 0 !important;\r\n}\r\n\r\n.selected-row {\r\n    background-color: lightpink;\r\n}\r\n"]}

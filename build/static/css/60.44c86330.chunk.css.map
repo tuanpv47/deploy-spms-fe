@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/admin/majorStandardOutput/MajorStandardOutputEdit/components/PageHeader/PageHeader.css"],"names":[],"mappings":"AAAA,aACE,gCAAiC,CACjC,kBAAmB,CACnB,cACF","file":"60.44c86330.chunk.css","sourcesContent":[".page-header {\r\n  border-bottom: 1px dotted #E2E2E2;\r\n  margin-bottom: 12px;\r\n  padding: 10px 0px;\r\n}"]}
